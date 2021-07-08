@@ -1,0 +1,3 @@
+[submodule "example-market/lib/component"]
+	path = example-market/lib/component
+	url = https://github.com/Blanknaja/modules-ts-component.git
