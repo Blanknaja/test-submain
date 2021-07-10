@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from "home-component-modules";
 function App() {
   return (
     <div className="App">
@@ -9,7 +8,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Hello text = "texttexttexttext" />
 
         <a
           className="App-link"
