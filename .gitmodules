@@ -1,0 +1,3 @@
+[submodule "example-market/testmodule/component"]
+	path = example-market/testmodule/component
+	url = https://github.com/Blanknaja/react-component-library.git
